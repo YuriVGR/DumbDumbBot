@@ -1,4 +1,4 @@
-#packages
+# node packages
 /node_modules
 
 # local env files
